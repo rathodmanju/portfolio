@@ -71,7 +71,7 @@ function Portfolio() {
 
           <div className="portfolio-item-cta">
             <a href="https://github.com/rathodmanju/Library-Manager-Syastem" className="btn" target="_blank">GitHub</a>
-            <a href="https://dribble.com/Alien_pixels"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a href="https://github.com/rathodmanju/Library-Manager-Syastem"  className="btn btn-primary" target="_blank">Live Demo</a>
           </div>
         </article>
         
@@ -83,8 +83,8 @@ function Portfolio() {
           <h3>My Portfolio</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju" className="btn" target="_blank">GitHub</a>
-            <a href="https://dribble.com/Alien_pixels"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a href="https://github.com/rathodmanju/portfolio" className="btn" target="_blank">GitHub</a>
+            <a href="https://rathodmanju.github.io/portfolio/"  className="btn btn-primary" target="_blank">Live Demo</a>
           </div>
         </article>
       </div>
