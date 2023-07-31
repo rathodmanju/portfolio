@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https.//rathodmanju.github.io/portfolio/static/css/main.459c3b4a.css",
-    "main.js": "/https.//rathodmanju.github.io/portfolio/static/js/main.6edf3b09.js",
-    "static/media/MyNewPic.jpg": "/https.//rathodmanju.github.io/portfolio/static/media/MyNewPic.094a9e7799b7c41f6392.jpg",
-    "static/media/BE Certificate.pdf": "/https.//rathodmanju.github.io/portfolio/static/media/BE Certificate.ae6dbf18b19f4a3c8b17.pdf",
-    "static/media/MyPic.png": "/https.//rathodmanju.github.io/portfolio/static/media/MyPic.91cbc3cf3c67c0e42737.png",
-    "static/media/Mern stack.png": "/https.//rathodmanju.github.io/portfolio/static/media/Mern stack.aa357126b71d125d6c58.png",
-    "static/media/Manju-resume.pdf.pdf": "/https.//rathodmanju.github.io/portfolio/static/media/Manju-resume.pdf.96a130dffce3d286ced4.pdf",
-    "static/media/react jss.png": "/https.//rathodmanju.github.io/portfolio/static/media/react jss.3f0fbf61ac1c1c9181c5.png",
-    "static/media/html css.png": "/https.//rathodmanju.github.io/portfolio/static/media/html css.bb052866e78103ca1c11.png",
-    "static/media/js.png": "/https.//rathodmanju.github.io/portfolio/static/media/js.c62f849a71a5c2ae2663.png",
-    "index.html": "/https.//rathodmanju.github.io/portfolio/index.html",
-    "main.459c3b4a.css.map": "/https.//rathodmanju.github.io/portfolio/static/css/main.459c3b4a.css.map",
-    "main.6edf3b09.js.map": "/https.//rathodmanju.github.io/portfolio/static/js/main.6edf3b09.js.map"
+    "main.css": "/portfolio/static/css/main.459c3b4a.css",
+    "main.js": "/portfolio/static/js/main.942985c6.js",
+    "static/media/MyNewPic.jpg": "/portfolio/static/media/MyNewPic.094a9e7799b7c41f6392.jpg",
+    "static/media/BE Certificate.pdf": "/portfolio/static/media/BE Certificate.ae6dbf18b19f4a3c8b17.pdf",
+    "static/media/MyPic.png": "/portfolio/static/media/MyPic.91cbc3cf3c67c0e42737.png",
+    "static/media/Mern stack.png": "/portfolio/static/media/Mern stack.aa357126b71d125d6c58.png",
+    "static/media/Manju-resume.pdf.pdf": "/portfolio/static/media/Manju-resume.pdf.96a130dffce3d286ced4.pdf",
+    "static/media/react jss.png": "/portfolio/static/media/react jss.3f0fbf61ac1c1c9181c5.png",
+    "static/media/html css.png": "/portfolio/static/media/html css.bb052866e78103ca1c11.png",
+    "static/media/js.png": "/portfolio/static/media/js.c62f849a71a5c2ae2663.png",
+    "index.html": "/portfolio/index.html",
+    "main.459c3b4a.css.map": "/portfolio/static/css/main.459c3b4a.css.map",
+    "main.942985c6.js.map": "/portfolio/static/js/main.942985c6.js.map"
   },
   "entrypoints": [
     "static/css/main.459c3b4a.css",
-    "static/js/main.6edf3b09.js"
+    "static/js/main.942985c6.js"
   ]
 }
