@@ -18,11 +18,23 @@ function Portfolio() {
           <h3>Tesla</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju/tesla" className="btn" target="_blank">GitHub</a>
-            <a href="https://rathodmanju.github.io/tesla/Tesla.html"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a
+              href="https://github.com/rathodmanju/tesla"
+              className="btn"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://rathodmanju.github.io/tesla/Tesla.html"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
           </div>
         </article>
-        
+
         <article className="portfolio-item">
           <div className="portfolio-item-image">
             <img src={HTMLCSS} alt="" />
@@ -31,8 +43,20 @@ function Portfolio() {
           <h3>Zendesk</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju/mock" className="btn" target="_blank">GitHub</a>
-            <a href="https://rathodmanju.github.io/mock/mock.html"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a
+              href="https://github.com/rathodmanju/mock"
+              className="btn"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://rathodmanju.github.io/mock/mock.html"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
           </div>
         </article>
 
@@ -44,8 +68,20 @@ function Portfolio() {
           <h3>Weather App</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju/weather" className="btn" target="_blank">GitHub</a>
-            <a href="https://rathodmanju.github.io/weather/weather.html"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a
+              href="https://github.com/rathodmanju/weather"
+              className="btn"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://rathodmanju.github.io/weather/weather.html"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
           </div>
         </article>
 
@@ -57,8 +93,20 @@ function Portfolio() {
           <h3>Calculator</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju/calculator" className="btn" target="_blank">GitHub</a>
-            <a href="https://rathodmanju.github.io/calculator/Calculator.html"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a
+              href="https://github.com/rathodmanju/calculator"
+              className="btn"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://rathodmanju.github.io/calculator/Calculator.html"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
           </div>
         </article>
 
@@ -70,11 +118,23 @@ function Portfolio() {
           <h3>Library Management</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju/Library-Manager-Syastem" className="btn" target="_blank">GitHub</a>
-            <a href="https://github.com/rathodmanju/Library-Manager-Syastem"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a
+              href="https://github.com/rathodmanju/Library-Manager-Syastem"
+              className="btn"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://github.com/rathodmanju/Library-Manager-Syastem"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
           </div>
         </article>
-        
+
         <article className="portfolio-item">
           <div className="portfolio-item-image">
             <img src={REACT} alt="" />
@@ -83,8 +143,20 @@ function Portfolio() {
           <h3>My Portfolio</h3>
 
           <div className="portfolio-item-cta">
-            <a href="https://github.com/rathodmanju/portfolio" className="btn" target="_blank">GitHub</a>
-            <a href="https://rathodmanju.github.io/portfolio/"  className="btn btn-primary" target="_blank">Live Demo</a>
+            <a
+              href="https://github.com/rathodmanju/portfolio"
+              className="btn"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://rathodmanju.github.io/portfolio/"
+              className="btn btn-primary"
+              target="_blank"
+            >
+              Live Demo
+            </a>
           </div>
         </article>
       </div>
